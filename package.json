@@ -1,8 +1,8 @@
 {
-  "name": "minesweeper",
+  "name": "react-minesweeper",
   "version": "1.0.0",
-  "description": "",
-  "keywords": [],
+  "description": "The classic minesweeper game made with React and TypeScript",
+  "keywords": ["minesweeper", "typescript", "react", "game"],
   "main": "src/index.tsx",
   "dependencies": {
     "@reach/menu-button": "0.11.2",
@@ -22,10 +22,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "browserslist": [
-    ">0.2%",
-    "not dead",
-    "not ie <= 11",
-    "not op_mini all"
-  ]
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
 }
